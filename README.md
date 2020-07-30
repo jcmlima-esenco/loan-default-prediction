@@ -31,3 +31,24 @@ Diferentemente das abordagens tradicionais baseadas em finanças para esse probl
 * Observe que algumas variáveis podem ser categóricas (por exemplo, f776 e f777).
 * O patrocinador da competição trabalhou para remover a dimensionalidade do tempo dos dados. No entanto, as observações ainda estão listadas na ordem do antigo para o novo no conjunto de treinamento. 
 * No conjunto de teste, eles estão em ordem aleatória.
+
+## SObre os notebooks
+
+# Baseline
+Primeira tentativa
+[Rede Neural](baseline.ipynb)
+
+# Regressão Logistica
+Tentativa de regressão logística
+[Regressão Logística](regressao logistica.ipynb)
+
+# Model Mult Layers (Deep learn)
+Multilayers, 
+[DNN](model multi layers.ipynb)
+
+# Other technics (Bays, Florest, etc)
+
+
+
+
+
