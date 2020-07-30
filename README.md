@@ -40,13 +40,14 @@ Primeira tentativa
 
 # Regressão Logistica
 Tentativa de regressão logística
-[Regressão Logística](regressao logistica.ipynb)
+[Regressão Logística](regressao-logistica.ipynb)
 
 # Model Mult Layers (Deep learn)
 Multilayers, 
-[DNN](model multi layers.ipynb)
+[DNN](multi-layers.ipynb)
 
 # Other technics (Bays, Florest, etc)
+[All](other-technics.ipynb)
 
 
 
